@@ -1,11 +1,54 @@
 
+/***** janice gega's advice *****/
+
+.janicegega-advice {
+  background-color: #e6e6e6;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  padding: 20px;
+}
+
+.janicegega-advice header a {
+  color: grey;
+  font-size: 12px;
+  text-decoration: none;
+  float: right;
+}
+
+.janicegega-advice h1 {
+  color: #808080;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+  letter-spacing: normal;
+  text-align: left;
+  text-transform: lowercase;
+}
+
+.janicegega-advice h4 {
+  font-family: 'EB Garamond', serif;
+  font-size: 24px;
+  color: #0000cc;
+  text-align: left;
+  text-indent: 36px;
+  text-transform: lowercase;
+}
+
+.janicegega-advice footer p {
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+  padding-top: 40px;
+  text-align: center;
+  text-transform: lowercase;
+}
+
+
 /*****Larissa's Advice*****/
 .larissa-advice {
   background-color: #DCDCDC;
   font-family: Helvetica;
   text-align: center;
 }
-  
+
 /**** Mark's advice *****/
 
 .mark-advice p {
@@ -226,6 +269,7 @@
 }
 
 /** Add a comment at the beginning of your CSS styles with your name**/
+
 
 /*****LAURA M'S ADVICE*****/
 .lauram-advice{
